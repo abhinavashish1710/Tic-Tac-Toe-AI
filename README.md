@@ -1,2 +1,14 @@
 # Tic-Tac-Toe-AI
-An unbeatable Tic Tac Toe game in Python using the Minimax algorithm.
+
+A Python Tic-Tac-Toe game with an unbeatable AI using the Minimax algorithm.
+
+## Features
+- Human vs AI
+- Minimax AI
+- Object-Oriented Design
+
+## Run
+
+```bash
+python main.py
+```
